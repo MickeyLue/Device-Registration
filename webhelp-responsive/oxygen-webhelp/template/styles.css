@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:regular,italic,bold&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:regular,italic,bold&display=swap');
+/*#
+@colors&{"titlesAccentColor":"#8f2525","labelsAccentColor":"#7b7a7a","linksAccentColor":"#2372de","backgroundAccentColor":"#dce5f2","isDefault":true}&colors@
+@info@STYLES BASKET SELECTIONS METADATA@info@
+@name&styles_basket&name@
+@aspects&wh-tiles,theme-color-pastel-cold,theme-fonts-merriweather-lato,title-font-size-big,content-font-size-16,between-elements-extra-small,between-lines-medium,table-colors-striped,links-style-underline-on-hover,wh-tiles-themes-titles-and-link-bg,wh-breadcrumb-style-bold-selection,pdf-cover-selector,wh-breadcrumb-separator-circle,wh-menu-page-colors-labels-color-lighten-black-bg,wh-footer-colors-labels,wh-footer-background-color-gray-light,wh-footer-padding-small,wh-search-component-padding-medium,wh-search-component-background-color,wh-search-component-colors-links,preview-selector&aspects@
+@info@WARNING: PLEASE DON'T MODIFY THIS FILE. MODIFICATION CAN CAUSE UPLOADING ERRORS@info@
+@info@TIP: YOU CAN USE custom.css TO ADD CUSTOM SELECTORS.@info@
+#*/
+@media print {
+  @page front-page {
+    background-image: url("resources/CoverPurple.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+  }
+}
+/* Bold selection in Publication TOC. WebHelp only. */
+@media screen {
+  .wh_publication_toc .active > .topicref a {
+    font-weight: bold;
+  }
+}
+/*theme-color-pastel-cold*/
+.topictitle1,
+.topictitle2,
+.topictitle3,
+.topictitle4,
+.topictitle5,
+.topictitle6,
+*[class~='front-page/front-page-title'],
+*[class~="toc/title"],
+*[class~="placeholder/figurelist"] > *[class~="topic/title"],
+*[class~="placeholder/tablelist"] > *[class~="topic/title"],
+*[class~="index/groups"]::before {
+  color: #142d4c;
+}
+*[class~='topic/shortdesc']:before {
+  color: #385170;
+}
+*[class~='topic/xref'],
+*[class~='topic/link'] {
+  color: #469684;
+}
+.related-links a,
+.related-links a:visited {
+  color: #469684;
+}
+a,
+a:hover,
+a:visited {
+  color: #469684;
+}
+*[class~='topic/table'] th {
+  background-color: #ececec;
+}
+/*theme-fonts-merriweather-lato*/
+@page {
+  font-family: 'Merriweather', serif;
+}
+.topictitle1,
+.topictitle2,
+.topictitle3,
+.topictitle4,
+.topictitle5,
+.topictitle6,
+*[class~='front-page/front-page-title'],
+*[class~="toc/title"],
+*[class~="map/topicref"],
+*[class~='topic/title'],
+*[class~='topic/thead'],
+*[class~="placeholder/figurelist"],
+*[class~="placeholder/tablelist"],
+*[class~="index/groups"]::before,
+*[class~="index/group"] > *[class~="index/label"],
+.wh_publication_title,
+.wh_top_menu,
+.wh_tile_title .topicref,
+.wh_main_page_toc_entry .topicref,
+.wh_index_terms span.wh_first_letter,
+.wh-letters li a {
+  font-family: 'Merriweather', serif;
+}
+body {
+  font-family: 'Lato', sans-serif;
+}
+/*title-font-size-big*/
+.topictitle1,
+*[class~='toc/title'],
+*[class~="placeholder/figurelist"] > *[class~="topic/title"],
+*[class~="placeholder/tablelist"] > *[class~="topic/title"],
+*[class~="index/groups"]::before {
+  font-size: 24pt;
+}
+.topictitle2 {
+  font-size: 21pt;
+}
+.topictitle3,
+.topictitle4,
+.topictitle5,
+.topictitle6 {
+  font-size: 18pt;
+}
+/*content-font-size-16*/
+body {
+  font-size: 16pt;
+}
+/*between-elements-extra-small*/
+*[class~='topic/p'],
+*[class~='topic/lq'],
+*[class~='topic/note'],
+*[class~='topic/dl'],
+*[class~='topic/ul'],
+*[class~='topic/ol'],
+*[class~='topic/li'],
+*[class~='topic/sl'],
+*[class~='topic/pre'],
+*[class~='topic/lines'],
+*[class~='topic/fig'],
+*[class~='topic/table'],
+*[class~='topic/simpletable'],
+*[class~='topic/section'],
+*[class~='topic/example'] {
+  margin: 0.5em 0;
+}
+/*between-lines-medium*/
+*[class~='topic/topic'],
+*[class~='topic/body'],
+*[class~='topic/title'] {
+  line-height: 1.4;
+}
+/*table-colors-striped*/
+*[class~='topic/strow']:nth-child(even),
+*[class~='topic/tbody'] *[class~='topic/row']:nth-child(even) {
+  background-color: #ffffff;
+}
+/*links-style-underline-on-hover*/
+*[class~='topic/xref'],
+*[class~='topic/link'] {
+  text-decoration: none;
+}
+*[class~='topic/xref']:hover,
+*[class~='topic/link']:hover {
+  text-decoration: underline;
+}
+.related-links a,
+.related-links a:visited,
+a,
+a:visited {
+  text-decoration: none;
+}
+.related-links a:hover,
+a:hover {
+  text-decoration: underline;
+}
+/*pdf-cover-selector*/
+/*wh-tiles*/
+/*wh-tiles-themes-titles-and-link-bg*/
+.wh_tile {
+  border-radius: 8px;
+  background-color: #ececec;
+}
+.wh_tile_title {
+  text-align: center;
+  font-size: 1.5em;
+}
+.wh_tile_title a {
+  color: #469684;
+}
+.wh_tile_shortdesc {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  text-align: center;
+  color: #142d4c;
+}
+/*wh-breadcrumb-style-bold-selection*/
+.wh_breadcrumb ol .active a {
+  font-weight: bold;
+}
+/*wh-breadcrumb-separator-circle*/
+.wh_breadcrumb li:not(:last-of-type):after {
+  content: ' \25CF ';
+}
+/*wh-menu-page-colors-labels-color-lighten-black-bg*/
+.wh_header {
+  background-color: #000;
+}
+.wh_top_menu > ul > li a,
+.wh_indexterms_link a::before {
+  color: #7090b7;
+}
+.wh_indexterms_link a span {
+  display: none;
+}
+.wh_top_menu ul li:hover {
+  background-color: #000;
+}
+.wh_top_menu ul ul {
+  background-color: #000;
+}
+.wh_top_menu ul ul li {
+  border-top-color: #000;
+}
+.wh_top_menu ul ul li a:hover {
+  background: #000;
+}
+/*wh-search-component-colors-links*/
+.wh_search_button {
+  background-color: #469684;
+}
+/*wh-search-component-background-color*/
+.wh_search_input {
+  background-color: #ececec;
+}
+/*wh-search-component-padding-medium*/
+.wh_search_input {
+  padding: 50px 0;
+}
+/*wh-footer-colors-labels*/
+.footer-container,
+.footer-container a {
+  color: #385170;
+}
+/*wh-footer-background-color-gray-light*/
+.wh_footer {
+  background-color: #bcbcbc;
+}
+/*wh-footer-padding-small*/
+.wh_footer {
+  padding: 30px 0;
+}
+/*preview-selector*/
+
