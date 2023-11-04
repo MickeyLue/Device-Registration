@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:regular,italic,bold&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:regular,italic,bold&display=swap');
+/*#
+@colors&{"titlesAccentColor":"#494949","labelsAccentColor":"#7b7a7a","linksAccentColor":"#2372de","backgroundAccentColor":"#dce5f2","isDefault":true}&colors@
+@info@STYLES BASKET SELECTIONS METADATA@info@
+@name&styles_basket&name@
+@aspects&wh-tiles,theme-color-pastel-cold,theme-fonts-merriweather-lato,pdf-cover-selector,pdf-cover-title-horizontal-alignment-right,pdf-cover-title-vertical-alignment-center,pdf-cover-title-size-normal,title-font-size-small,content-font-size-12,between-elements-small,between-lines-medium,ordered-list-counter-color-titles,links-style-underline-on-hover,wh-breadcrumb-style-bold-selection,wh-breadcrumb-colors-links-background,wh-menu-page-colors-labels-color-no-bg,wh-search-component-padding-small,wh-search-component-background-color,wh-search-component-borders-color-labels,wh-search-component-colors-links,wh-footer-colors-labels,wh-footer-padding-extra-small,wh-footer-background-color,preview-selector&aspects@
+@info@WARNING: PLEASE DON'T MODIFY THIS FILE. MODIFICATION CAN CAUSE UPLOADING ERRORS@info@
+@info@TIP: YOU CAN USE custom.css TO ADD CUSTOM SELECTORS.@info@
+#*/
+@media print {
+  @page front-page {
+    background-image: url("resources/cover.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+  }
+}
+/* Bold selection in Publication TOC. WebHelp only. */
+@media screen {
+  .wh_publication_toc .active > .topicref a {
+    font-weight: bold;
+  }
+}
+/*theme-color-pastel-cold*/
+.topictitle1,
+.topictitle2,
+.topictitle3,
+.topictitle4,
+.topictitle5,
+.topictitle6,
+*[class~='front-page/front-page-title'],
+*[class~="toc/title"],
+*[class~="placeholder/figurelist"] > *[class~="topic/title"],
+*[class~="placeholder/tablelist"] > *[class~="topic/title"],
+*[class~="index/groups"]::before {
+  color: #142d4c;
+}
+*[class~='topic/shortdesc']:before {
+  color: #385170;
+}
+*[class~='topic/xref'],
+*[class~='topic/link'] {
+  color: #469684;
+}
+.related-links a,
+.related-links a:visited {
+  color: #469684;
+}
+a,
+a:hover,
+a:visited {
+  color: #469684;
+}
+*[class~='topic/table'] th {
+  background-color: #ececec;
+}
+/*theme-fonts-merriweather-lato*/
+@page {
+  font-family: 'Merriweather', serif;
+}
+.topictitle1,
+.topictitle2,
+.topictitle3,
+.topictitle4,
+.topictitle5,
+.topictitle6,
+*[class~='front-page/front-page-title'],
+*[class~="toc/title"],
+*[class~="map/topicref"],
+*[class~='topic/title'],
+*[class~='topic/thead'],
+*[class~="placeholder/figurelist"],
+*[class~="placeholder/tablelist"],
+*[class~="index/groups"]::before,
+*[class~="index/group"] > *[class~="index/label"],
+.wh_publication_title,
+.wh_top_menu,
+.wh_tile_title .topicref,
+.wh_main_page_toc_entry .topicref,
+.wh_index_terms span.wh_first_letter,
+.wh-letters li a {
+  font-family: 'Merriweather', serif;
+}
+body {
+  font-family: 'Lato', sans-serif;
+}
+/*title-font-size-small*/
+.topictitle1,
+*[class~='toc/title'],
+*[class~="placeholder/figurelist"] > *[class~="topic/title"],
+*[class~="placeholder/tablelist"] > *[class~="topic/title"],
+*[class~="index/groups"]::before {
+  font-size: 17pt;
+}
+.topictitle2 {
+  font-size: 14pt;
+}
+.topictitle3,
+.topictitle4,
+.topictitle5,
+.topictitle6 {
+  font-size: 11pt;
+}
+/*content-font-size-12*/
+body {
+  font-size: 12pt;
+}
+/*between-elements-small*/
+*[class~='topic/p'],
+*[class~='topic/lq'],
+*[class~='topic/note'],
+*[class~='topic/dl'],
+*[class~='topic/ul'],
+*[class~='topic/ol'],
+*[class~='topic/li'],
+*[class~='topic/sl'],
+*[class~='topic/pre'],
+*[class~='topic/lines'],
+*[class~='topic/fig'],
+*[class~='topic/table'],
+*[class~='topic/simpletable'],
+*[class~='topic/section'],
+*[class~='topic/example'] {
+  margin: 0.8em 0;
+}
+/*between-lines-medium*/
+*[class~='topic/topic'],
+*[class~='topic/body'],
+*[class~='topic/title'] {
+  line-height: 1.4;
+}
+/*ordered-list-counter-color-titles*/
+*[class="- topic/ol ol"] > *[class="- topic/li li"]::marker,
+*[class="- topic/ol ol"] > *[class="- topic/li li"]::before {
+  color: #142d4c;
+}
+/*links-style-underline-on-hover*/
+*[class~='topic/xref'],
+*[class~='topic/link'] {
+  text-decoration: none;
+}
+*[class~='topic/xref']:hover,
+*[class~='topic/link']:hover {
+  text-decoration: underline;
+}
+.related-links a,
+.related-links a:visited,
+a,
+a:visited {
+  text-decoration: none;
+}
+.related-links a:hover,
+a:hover {
+  text-decoration: underline;
+}
+/*pdf-cover-selector*/
+/*pdf-cover-title-horizontal-alignment-right*/
+*[class~="front-page/front-page-title"] > *[class~="topic/title"] {
+  text-align: right;
+}
+/*pdf-cover-title-vertical-alignment-center*/
+*[class~="front-page/front-page-title"] {
+  padding-top: 20%;
+}
+/*pdf-cover-title-size-normal*/
+*[class~="front-page/front-page-title"] > *[class~="topic/title"] {
+  font-size: 1.8em;
+}
+/*wh-tiles*/
+/*wh-breadcrumb-style-bold-selection*/
+.wh_breadcrumb ol .active a {
+  font-weight: bold;
+}
+/*wh-breadcrumb-colors-links-background*/
+.wh_breadcrumb ol a {
+  color: #469684;
+}
+.wh_tools {
+  background-color: #ececec;
+}
+/*wh-menu-page-colors-labels-color-no-bg*/
+.wh_header {
+  background-color: transparent;
+}
+.wh_top_menu > ul > li a,
+.wh_indexterms_link a::before {
+  color: #385170;
+}
+.wh_indexterms_link a span {
+  display: none;
+}
+.wh_top_menu ul li:hover {
+  background-color: #e6e6e6;
+}
+.wh_top_menu ul ul {
+  background-color: #e6e6e6;
+}
+.wh_top_menu ul ul li {
+  border-top-color: #fff;
+}
+.wh_top_menu ul ul li a:hover {
+  background: #d9d9d9;
+}
+#wh_menu_mobile_button {
+  background-color: #b3b3b3;
+}
+/*wh-search-component-colors-links*/
+.wh_search_button {
+  background-color: #469684;
+}
+/*wh-search-component-background-color*/
+.wh_search_input {
+  background-color: #ececec;
+}
+/*wh-search-component-padding-small*/
+.wh_search_input {
+  padding: 30px 0;
+}
+/*wh-search-component-borders-color-labels*/
+.wh_search_textfield,
+.wh_search_button {
+  border-color: #385170;
+}
+/*wh-footer-colors-labels*/
+.footer-container,
+.footer-container a {
+  color: #385170;
+}
+/*wh-footer-background-color*/
+.wh_footer {
+  background-color: #ececec;
+}
+/*wh-footer-padding-extra-small*/
+.wh_footer {
+  padding: 20px 0;
+}
+/*preview-selector*/
+
