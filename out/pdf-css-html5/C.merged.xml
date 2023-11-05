@@ -2,56 +2,51 @@
 <?xml-stylesheet type='text/css' href='file:/C:/Users/miche/AppData/Local/Programs/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Users/miche/AppData/Local/Programs/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
 <?xml-stylesheet type='text/css' href='file:/C:/Users/miche/AppData/Local/Programs/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
-<?xml-stylesheet type='text/css' href='file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/temp/pdf-css-html5/publishing-template/custom.css'?>
-<?xml-stylesheet type='text/css' href='file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/temp/pdf-css-html5/publishing-template/styles.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/temp/custom.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/temp/styles.css'?>
 <map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/C.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">WiFi: Register a Personal Device for the Internet of Things (IoT) WiFi Service</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title class="- topic/title ">WiFi: Register a Personal Device for the Internet of Things (IoT) WiFi Service</title>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="understand_the_internet_of_things_iot_services"><resourceid appid="understand_the_internet_of_things_iot_services" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Understand the Internet of Things (IoT) Services</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="internet_of_things_iot_service_options"><resourceid appid="internet_of_things_iot_service_options" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Internet of Things (IoT) Service Options</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="encrypted_service"><resourceid appid="encrypted_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Encrypted Service</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="best_practices_for_iot_devices"><resourceid appid="best_practices_for_iot_devices" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Best Practices for IoT Devices</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_5" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="which_devices_can_be_registered_for_iot_service"><resourceid appid="which_devices_can_be_registered_for_iot_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Which devices can be registered for IoT Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="register_and_connect_to_the_encrypted_service"><resourceid appid="register_and_connect_to_the_encrypted_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Register and Connect to the Encrypted Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_7" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="step_1_find_the_wireless_mac_address"><resourceid appid="step_1_find_the_wireless_mac_address" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Step 1:  Find the wireless MAC address</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="step_2_register_the_device_for_the_encrypted_iot_service"><resourceid appid="step_2_register_the_device_for_the_encrypted_iot_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Step 2: Register the device for the Encrypted IoT Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="registering_a_personal_device_for_encrypted_iot_service"><resourceid appid="registering_a_personal_device_for_encrypted_iot_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Registering a Personal Device for Encrypted IoT Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><b class="+ topic/ph hi-d/b ">Do not register laptops or smart phones using this process</b> unless otherwise         specified for temporary IoT device AirGroup setup. Phones and laptops should connect to         eduroam using your full University email address (InternetID@umn.edu) and password. Full         access to your University account and systems (i.e., MyU, Canvas, PeopleSoft) may not be         fully functional on the IoT network. For more information on eduroam, follow <xref class="- topic/xref " format="html" href="https://it.umn.edu/wifi-how-connect-eduroam" scope="external">Connect to eduroam</xref>.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_10" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="step_3_connect_to_the_encrypted_iot_wifi_service"><resourceid appid="step_3_connect_to_the_encrypted_iot_wifi_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Step 3:  Connect to the Encrypted IoT WiFi Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="connecting_your_device_to_encrypted_iot_service"><resourceid appid="connecting_your_device_to_encrypted_iot_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Connecting Your Device to Encrypted IoT Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="step_4_check_any_known_device_issues"><resourceid appid="step_4_check_any_known_device_issues" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Step 4:  Check any Known Device Issues</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_13" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="wireless_printers"><resourceid appid="wireless_printers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Wireless Printers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Poor service for everyone in the area of the printer. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="apple_tv"><resourceid appid="apple_tv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Apple TV</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Attempt the connection with UofM-IoT following the instructions in the <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/self-help-guides/register-personal-device-internet-things" scope="external">Register a Personal Device for the Internet of Things             (IoT) Wi-Fi Service</xref> Self-Help guide. In case that does not work, you can attempt         to connect using our enterprise eduroam connection by using <xref class="- topic/xref " format="html" href="http://support.apple.com/en-us/HT202577" scope="external">Apple             Configurator</xref> (link is an archived Apple article).</shortdesc></topicmeta></topicref></topicref></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="convert_a_legacy_device"><resourceid appid="convert_a_legacy_device" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Convert a Legacy Device</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_16" type="task"><topicmeta class="- map/topicmeta " data-topic-id="converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service"><resourceid appid="converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Converting Your IoT Device from Legacy Unencrypted Service to Encrypted Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="task"><topicmeta class="- map/topicmeta " data-topic-id="understand_the_internet_of_things_iot_services"><resourceid appid="understand_the_internet_of_things_iot_services" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Understand the Internet of Things (IoT) Services</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="internet_of_things_iot_service_options"><resourceid appid="internet_of_things_iot_service_options" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Internet of Things (IoT) Service Options</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="encrypted_service"><resourceid appid="encrypted_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Encrypted Service</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="best_practices_for_iot_devices"><resourceid appid="best_practices_for_iot_devices" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Best Practices for IoT Devices</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_5" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="which_devices_can_be_registered_for_iot_service"><resourceid appid="which_devices_can_be_registered_for_iot_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Which devices can be registered for IoT Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="register_and_connect_to_the_encrypted_service"><resourceid appid="register_and_connect_to_the_encrypted_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Register and Connect to the Encrypted Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="step_1_find_the_wireless_mac_address"><resourceid appid="step_1_find_the_wireless_mac_address" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Step 1:  Find the wireless MAC address</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A device's wireless (Wi-Fi) MAC address, also known as hardware or physical address,         is used for connecting to the network. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="step_2_register_the_device_for_the_encrypted_iot_service"><resourceid appid="step_2_register_the_device_for_the_encrypted_iot_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Step 2: Register the device for the Encrypted IoT Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To connect devices to the WiFi services, register devices for the Encrypted IoT         Service. <b class="+ topic/ph hi-d/b ">Do not register laptops or smart phones using this process</b> unless otherwise         specified for temporary IoT device AirGroup setup. Phones and laptops should connect to         eduroam using your full University email address and password. Full access to your         University account and systems may not be fully functional on the IoT network. For more         information on eduroam, follow <xref class="- topic/xref " format="html" href="https://it.umn.edu/wifi-how-connect-eduroam" scope="external">Connect to eduroam</xref>.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="step_3_connect_to_the_encrypted_iot_wifi_service"><resourceid appid="step_3_connect_to_the_encrypted_iot_wifi_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Step 3:  Connect to the Encrypted IoT WiFi Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">NOTE: If your device is using the Legacy Unencrypted IoT service and not the new         Encrypted Service, the legacy IoT service will eventually be disabled.<b class="+ topic/ph hi-d/b "> Any new devices             should be registered for the new encrypted IoT service</b>. Existing IoT devices can         easily be<xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/wifi-convert-legacy-internet-things-iot" scope="external"> converted to the new service</xref>. Registration is         required annually.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="step_4_check_any_known_device_issues"><resourceid appid="step_4_check_any_known_device_issues" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Step 4:  Check any Known Device Issues</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_11" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="wireless_printers"><resourceid appid="wireless_printers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Wireless Printers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When WiFi service is poor for anyone in the area of a wireless printer. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="apple_tv"><resourceid appid="apple_tv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Apple TV</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When the connection of an Apple TV to the Internet of Things (IoT) Services does not         work, you can attempt to connect using our enterprise eduroam connection by using <xref class="- topic/xref " format="html" href="http://support.apple.com/en-us/HT202577" scope="external">Apple             Configurator</xref>.</shortdesc></topicmeta></topicref></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="convert_a_legacy_device"><resourceid appid="convert_a_legacy_device" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Convert a Legacy Device</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service"><resourceid appid="converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Converting Your IoT Device from Legacy Unencrypted Service to Encrypted Service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
     <?ditaot gentext?>
-</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="understand_the_internet_of_things_iot_services" oid="understand_the_internet_of_things_iot_services" specializations="@props/deliveryTarget">
+</opentopic:map><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="understand_the_internet_of_things_iot_services" oid="understand_the_internet_of_things_iot_services" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Understand the Internet of Things (IoT) Services</ph></title>
     <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
         <p class="- topic/p ">Students, staff, and faculty at the University of Minnesota can register personal gaming
-            or streaming devices such as Xbox, Roku, Apple TV, and more for WiFi access even if they
-            don't support WPA2 authentication (username and password). </p>
-        <p class="- topic/p ">This registration should be performed using the University Internet ID and password of
-            the person who owns the device.</p>
+                or streaming devices such as Xbox, Roku, Apple TV for WiFi access even if they don't
+                support WPA2 authentication. This registration should be performed using the
+                University Internet ID and password of the person who owns the device.</p>
         <p class="- topic/p "/>
-    </conbody>
-<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="internet_of_things_iot_service_options" oid="internet_of_things_iot_service_options" specializations="@props/deliveryTarget">
+    </context></taskbody>
+<task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="internet_of_things_iot_service_options" oid="internet_of_things_iot_service_options" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Internet of Things (IoT) Service Options</ph></title>
     <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
         <p class="- topic/p ">At the University of Minnesota, personal and departmental Internet of Things (IoT)
             devices can be registered for the Wi-Fi service. The current IoT service option is the
             Encrypted Service.</p>
         <p class="- topic/p "/>
-    </conbody>
-<concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="encrypted_service" oid="encrypted_service" specializations="@props/deliveryTarget">
+    </context></taskbody>
+<task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="encrypted_service" oid="encrypted_service" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Encrypted Service</ph></title>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">The current IoT service option is the Encrypted Service. Some of the benefits of Encrypted Service are listed below:</p>
-        <ul class="- topic/ul " id="unique_3_Connect_42_ul_aht_mlc_hzb" nd:nd-id="ul_aht_mlc_hzb">
-            <li class="- topic/li ">Uses UofM-IoT SSID</li>
-            <li class="- topic/li ">Better security with encrypted Wi-Fi traffic</li>
-            <li class="- topic/li ">Easier setup process</li>
-            <li class="- topic/li ">Supports more device types</li>
-            <li class="- topic/li ">Requires device registration and a password (also known as a pre-shared key or
-                PSK)</li>
-        </ul>
-        <p class="- topic/p "/>
-    </conbody>
-</concept><reference class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="best_practices_for_iot_devices" oid="best_practices_for_iot_devices" specializations="@props/deliveryTarget">
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context "><p class="- topic/p ">The current IoT service option is the Encrypted Service. Some of the benefits of Encrypted Service are listed below:</p></context><steps-unordered class="- topic/ul task/steps-unordered " id="unique_3_Connect_42_ul_aht_mlc_hzb" nd:nd-id="ul_aht_mlc_hzb">
+            <step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Uses UofM-IoT SSID</cmd></step>
+            <step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Better security with encrypted Wi-Fi traffic</cmd></step>
+            <step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Easier setup process</cmd></step>
+            <step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Supports more device types</cmd></step>
+            <step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Requires device registration and a password (also known as a pre-shared key or
+                PSK)</cmd></step>
+        </steps-unordered><postreq class="- topic/section task/postreq "><p class="- topic/p "/></postreq></taskbody>
+</task><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="best_practices_for_iot_devices" oid="best_practices_for_iot_devices" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Best Practices for IoT Devices</ph></title>
-    <refbody class="- topic/body        reference/refbody "><section class="- topic/section ">
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
             <p class="- topic/p ">The IoT service is designed for devices that are unable to log in to Wi-Fi with your
                 Internet ID and password. These are some best practices when registering and using
                 IoT devices on the University Wi-Fi network:</p>
             <table class="- topic/table " colsep="1" frame="all" id="unique_4_Connect_42_table_jj1_qbc_3zb" nd:nd-id="table_jj1_qbc_3zb" rowsep="1">
-                <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+                <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Best Practices when Using IoT Devices</ph></title>
                 <tgroup class="- topic/tgroup " cols="1">
                     <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;12:69" xtrf="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/topics/best_practices_for_iot_devices.dita" style="width:100%;"/>
                     <tbody class="- topic/tbody ">
@@ -74,8 +69,8 @@
                 </tgroup>
             </table>
         <p class="- topic/p "/>
-    </section></refbody>
-</reference></concept><reference class="- topic/topic       reference/reference " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="which_devices_can_be_registered_for_iot_service" oid="which_devices_can_be_registered_for_iot_service" specializations="@props/deliveryTarget">
+    </context></taskbody>
+</task></task><reference class="- topic/topic       reference/reference " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="which_devices_can_be_registered_for_iot_service" oid="which_devices_can_be_registered_for_iot_service" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Which devices can be registered for IoT Service</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <refbody class="- topic/body        reference/refbody "><section class="- topic/section " id="unique_5_Connect_42_section_tq4_r1t_gzb" nd:nd-id="section_tq4_r1t_gzb">
@@ -84,16 +79,13 @@
                 freezer monitors, and more to the University Wi-Fi network. Unregistered devices can
                 disrupt or slow down the University Wi-Fi network, making it difficult for
                 neighboring devices to connect.</p>
-            <p class="- topic/p ">The types of devices that should or should not be registered using the <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/self-help-guides/register-personal-device-internet-things" scope="external"><?ditaot usertext?>Register a Personal Device for IoT</xref> guide
-                or <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/self-help-guides/wifi-register-departmental-device" scope="external"><?ditaot usertext?>Register a Departmental Device for IoT</xref>
-                guide are listed below.</p>
         </section>
         <section class="- topic/section " id="unique_5_Connect_42_section_uq4_r1t_gzb" nd:nd-id="section_uq4_r1t_gzb">
             <table class="- topic/table " colsep="1" frame="all" id="unique_5_Connect_42_table_qmb_hct_gzb" nd:nd-id="table_qmb_hct_gzb" rowsep="1">
                 <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Which Devices Can or Cannot Be Registered for IoT Service</ph></title>
                 <tgroup class="- topic/tgroup " cols="2">
-                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;24:69" xtrf="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/topics/which_devices_can_be_registered_for_iot_service.dita" style="width:50%;"/>
-                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;25:69" xtrf="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/topics/which_devices_can_be_registered_for_iot_service.dita" style="width:50%;"/>
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;17:69" xtrf="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/topics/which_devices_can_be_registered_for_iot_service.dita" style="width:50%;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;18:69" xtrf="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/topics/which_devices_can_be_registered_for_iot_service.dita" style="width:50%;"/>
                     <thead class="- topic/thead ">
                         <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Can Be Registered</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Cannot Be Registered </entry></row>
                     </thead>
@@ -108,80 +100,69 @@
             </table>
             <p class="- topic/p "/>
         </section></refbody>
-</reference></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="register_and_connect_to_the_encrypted_service" oid="register_and_connect_to_the_encrypted_service" specializations="@props/deliveryTarget">
+</reference></task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="register_and_connect_to_the_encrypted_service" oid="register_and_connect_to_the_encrypted_service" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Register and Connect to the Encrypted Service</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">In order to connect to the Internet of Things (IoT) Services, registration and
-            connection to the Encrypted Service are required. The following steps are a guide to the
-            process of registering and connecting to the Encrypted Service by using the wireless MAC
-            address.</p>
+        <p class="- topic/p ">The Internet of Things (IoT) Services WiFi connection is accomplished by using the
+            wireless MAC address to register and connect to the Encrypted Service.</p>
     </conbody>
-<reference class="- topic/topic       reference/reference " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="step_1_find_the_wireless_mac_address" oid="step_1_find_the_wireless_mac_address" specializations="@props/deliveryTarget">
+<task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="step_1_find_the_wireless_mac_address" oid="step_1_find_the_wireless_mac_address" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Step 1:  Find the wireless MAC address</ph></title>
-    <shortdesc class="- topic/shortdesc "/>
-    <refbody class="- topic/body        reference/refbody "><section class="- topic/section ">
-        <p class="- topic/p ">A device's wireless (Wi-Fi) MAC address, also known as hardware or physical address, is
-            used for connecting to the network. </p>
+    <shortdesc class="- topic/shortdesc ">A device's wireless (Wi-Fi) MAC address, also known as hardware or physical address,
+        is used for connecting to the network. </shortdesc>
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
+        <p class="- topic/p "/>
         <ul class="- topic/ul " id="unique_7_Connect_42_ul_m4g_xcl_fzb" nd:nd-id="ul_m4g_xcl_fzb">
-            <li class="- topic/li ">For any IoT device that needs a companion device (smart phone, computer) to be on
-                the same network for the setup, please follow the steps to <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/wifi-register-your-chromecast-device" scope="external"><?ditaot usertext?>Register your Chromecast Device</xref>.</li>
-            <li class="- topic/li ">Attempting to use an <xref class="- topic/xref " format="html" href="https://support.google.com/chromecast/answer/6178505?hl=en" scope="external"><?ditaot usertext?>Ethernet Adapter</xref>? Ensure that you have <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/register-device-network-dhcp" scope="external"><?ditaot usertext?>registered your device on the wired
-                    network</xref>.</li>
+            <li class="- topic/li ">Any IoT device that needs a companion device (smart phone, computer) to be on the
+                    same network for the setup, follow the steps to <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/wifi-register-your-chromecast-device" scope="external"><?ditaot usertext?>Register your Chromecast Device</xref>.</li>
+            <li class="- topic/li ">When using an <xref class="- topic/xref " format="html" href="https://support.google.com/chromecast/answer/6178505?hl=en" scope="external"><?ditaot usertext?>Ethernet Adapter</xref> ensure that you have
+                        <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/register-device-network-dhcp" scope="external"><?ditaot usertext?>registered your device on the wired
+                        network</xref>.</li>
         </ul>
         <p class="- topic/p "/>
-    </section></refbody>
-</reference><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="step_2_register_the_device_for_the_encrypted_iot_service" oid="step_2_register_the_device_for_the_encrypted_iot_service" specializations="@props/deliveryTarget">
+    </context></taskbody>
+</task><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="step_2_register_the_device_for_the_encrypted_iot_service" oid="step_2_register_the_device_for_the_encrypted_iot_service" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Step 2: Register the device for the Encrypted IoT Service</ph></title>
-    <shortdesc class="- topic/shortdesc "/>
-    <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">At the University of Minnesota, personal Internet of Things (IoT) devices such as Xbox,
-            PlayStation, Roku, Apple TV, etc can be registered for Wi-Fi service.</p>
-        <p class="- topic/p ">Follow these steps to register your device for the Encrypted IoT Service. This step is a
-            part of the <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/self-help-guides/register-personal-device-internet-things" scope="external"><?ditaot usertext?>Register a Personal Device for IoT Wi-Fi
-                Service</xref> guide. </p>
-        <p class="- topic/p "/>
-    </conbody>
-<task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="registering_a_personal_device_for_encrypted_iot_service" oid="registering_a_personal_device_for_encrypted_iot_service" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Registering a Personal Device for Encrypted IoT Service</ph></title>
-    <shortdesc class="- topic/shortdesc "><b class="+ topic/ph hi-d/b ">Do not register laptops or smart phones using this process</b> unless otherwise
+    <shortdesc class="- topic/shortdesc ">To connect devices to the WiFi services, register devices for the Encrypted IoT
+        Service. <b class="+ topic/ph hi-d/b ">Do not register laptops or smart phones using this process</b> unless otherwise
         specified for temporary IoT device AirGroup setup. Phones and laptops should connect to
-        eduroam using your full University email address (InternetID@umn.edu) and password. Full
-        access to your University account and systems (i.e., MyU, Canvas, PeopleSoft) may not be
-        fully functional on the IoT network. For more information on eduroam, follow <xref class="- topic/xref " format="html" href="https://it.umn.edu/wifi-how-connect-eduroam" scope="external"><?ditaot usertext?>Connect to eduroam</xref>.</shortdesc>
+        eduroam using your full University email address and password. Full access to your
+        University account and systems may not be fully functional on the IoT network. For more
+        information on eduroam, follow <xref class="- topic/xref " format="html" href="https://it.umn.edu/wifi-how-connect-eduroam" scope="external"><?ditaot usertext?>Connect to eduroam</xref>.</shortdesc>
     <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
-            <ol class="- topic/ol " id="unique_9_Connect_42_ol_bcn_h2l_fzb" nd:nd-id="ol_bcn_h2l_fzb">
-                <li class="- topic/li ">Go to the <xref class="- topic/xref " format="html" href="https://z.umn.edu/wifiregistration" scope="external"><?ditaot usertext?>Wi-Fi Registration webpage</xref>.<ul class="- topic/ul " id="unique_9_Connect_42_ul_ccn_h2l_fzb" nd:nd-id="ul_ccn_h2l_fzb">
+            <ol class="- topic/ol " id="unique_8_Connect_42_ol_bcn_h2l_fzb" nd:nd-id="ol_bcn_h2l_fzb">
+                <li class="- topic/li ">Go to the <xref class="- topic/xref " format="html" href="https://z.umn.edu/wifiregistration" scope="external"><?ditaot usertext?>Wi-Fi Registration webpage</xref>.<ul class="- topic/ul " id="unique_8_Connect_42_ul_ccn_h2l_fzb" nd:nd-id="ul_ccn_h2l_fzb">
                         <li class="- topic/li ">This link will only work if you are accessing this article on campus
                             through a device connected to eduroam or you are connected to <xref class="- topic/xref " format="html" href="https://z.umn.edu/vpn" scope="external"><?ditaot usertext?>VPN</xref>.</li>
                         <li class="- topic/li ">If you are registering this device for yourself, sign in with your
                             Internet ID and password.</li>
-                        <li class="- topic/li ">If you're working on behalf of a department or another individual,
-                            please contact <xref class="- topic/xref " format="html" href="https://it.umn.edu/help" scope="external"><?ditaot usertext?>Technology Help</xref>.</li>
                     </ul></li>
                 <li class="- topic/li ">From the side menu under <b class="+ topic/ph hi-d/b ">Devices</b>, select <b class="+ topic/ph hi-d/b ">Create Device</b>.</li>
-                <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">MAC address</b> field, enter the wireless or <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/wifi-find-wireless-mac-address-your" scope="external"><?ditaot usertext?>Wi-Fi MAC address</xref> of the device.<ul class="- topic/ul " id="unique_9_Connect_42_ul_dcn_h2l_fzb" nd:nd-id="ul_dcn_h2l_fzb">
+                <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">MAC address</b> field, enter the wireless or <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/wifi-find-wireless-mac-address-your" scope="external"><?ditaot usertext?>Wi-Fi MAC address</xref> of the device.<ul class="- topic/ul " id="unique_8_Connect_42_ul_dcn_h2l_fzb" nd:nd-id="ul_dcn_h2l_fzb">
                         <li class="- topic/li ">The device name can be whatever you choose. For example, if you are
                             registering a Roku, you might name it Goldy's Roku.</li>
                     </ul></li>
                 <li class="- topic/li ">Enter a name for the device in the <b class="+ topic/ph hi-d/b ">Device Name</b> field. This name is to
                     help you identify the device to yourself in the future.</li>
-                <li class="- topic/li ">Check the<b class="+ topic/ph hi-d/b "> Wi-Fi Password box</b>. <image class="- topic/image " dita-ot:image-width="699" dita-ot:image-height="116" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/Step%202-5.png" id="unique_9_Connect_42_image_mjc_lrj_3zb" nd:nd-id="image_mjc_lrj_3zb" placement="inline"/></li>
+                <li class="- topic/li ">Check the<b class="+ topic/ph hi-d/b "> Wi-Fi Password box</b>. <fig class="- topic/fig " id="unique_8_Connect_42_fig_lbd_wbk_3zb" nd:nd-id="fig_lbd_wbk_3zb"><image class="- topic/image " dita-ot:image-width="699" dita-ot:image-height="116" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/Step%202-5.png" id="unique_8_Connect_42_image_mbd_wbk_3zb" nd:nd-id="image_mbd_wbk_3zb" placement="break">
+                            <alt class="- topic/alt ">Wi-Fi Password box example image.</alt>
+                        </image></fig></li>
                 <li class="- topic/li ">If you are registering a device that you are casting or communicating to or from
                     another device (such as your smartphone), as part of the registration
-                        process:<ol class="- topic/ol " id="unique_9_Connect_42_ol_ecn_h2l_fzb" nd:nd-id="ol_ecn_h2l_fzb">
+                        process:<ol class="- topic/ol " id="unique_8_Connect_42_ol_ecn_h2l_fzb" nd:nd-id="ol_ecn_h2l_fzb">
                         <li class="- topic/li ">Check the <b class="+ topic/ph hi-d/b ">AirGroup</b> box.</li>
                         <li class="- topic/li ">Leave the default <b class="+ topic/ph hi-d/b ">Personal</b> selected in the <b class="+ topic/ph hi-d/b ">Ownership</b>
                             section.</li>
-                        <li class="- topic/li ">If you will be sharing the device with your roommate or another person,
-                            put their Internet ID in the <b class="+ topic/ph hi-d/b ">Shared With</b> field, separating
-                            multiple IDs by commas.<ul class="- topic/ul " id="unique_9_Connect_42_ul_fcn_h2l_fzb" nd:nd-id="ul_fcn_h2l_fzb">
+                        <li class="- topic/li ">If you will be sharing the device with another person, put their
+                            Internet ID in the <b class="+ topic/ph hi-d/b ">Shared With</b> field, separating multiple IDs by
+                                commas.<ul class="- topic/ul " id="unique_8_Connect_42_ul_fcn_h2l_fzb" nd:nd-id="ul_fcn_h2l_fzb">
                                 <li class="- topic/li ">This will allow you to cast from another device to the
                                     registered device even if they are connected to different SSIDs
-                                    (e.g. eduroam, UofM-IoT, etc.) <image class="- topic/image " dita-ot:image-width="699" dita-ot:image-height="165" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/Step%202-6.png" id="unique_9_Connect_42_image_om3_mrj_3zb" nd:nd-id="image_om3_mrj_3zb" placement="inline"/></li>
+                                    (e.g. eduroam, UofM-IoT, etc.) <image class="- topic/image " dita-ot:image-width="699" dita-ot:image-height="165" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/Step%202-6.png" id="unique_8_Connect_42_image_om3_mrj_3zb" nd:nd-id="image_om3_mrj_3zb" placement="break"/></li>
                             </ul></li>
                     </ol></li>
-                <li class="- topic/li ">Check the <b class="+ topic/ph hi-d/b ">Terms of Use</b> checkbox to accept the terms of use.<ul class="- topic/ul " id="unique_9_Connect_42_ul_hcn_h2l_fzb" nd:nd-id="ul_hcn_h2l_fzb">
+                <li class="- topic/li ">Check the <b class="+ topic/ph hi-d/b ">Terms of Use</b> checkbox to accept the terms of use.<ul class="- topic/ul " id="unique_8_Connect_42_ul_hcn_h2l_fzb" nd:nd-id="ul_hcn_h2l_fzb">
                         <li class="- topic/li ">The message reads <b class="+ topic/ph hi-d/b ">I am the owner of this device and accept the terms
                                 of use</b>.</li>
                     </ul></li>
@@ -191,88 +172,75 @@
             </ol>
             <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Note</b>: Personal device registration will expire automatically in 1 year unless
                 registration is renewed. </p>
-            <p class="- topic/p "> </p>
         <p class="- topic/p "/>
     </context></taskbody>
-</task></concept><reference class="- topic/topic       reference/reference " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="step_3_connect_to_the_encrypted_iot_wifi_service" oid="step_3_connect_to_the_encrypted_iot_wifi_service" specializations="@props/deliveryTarget">
+</task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="step_3_connect_to_the_encrypted_iot_wifi_service" oid="step_3_connect_to_the_encrypted_iot_wifi_service" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Step 3:  Connect to the Encrypted IoT WiFi Service</ph></title>
-    <shortdesc class="- topic/shortdesc "/>
-    <refbody class="- topic/body        reference/refbody "><section class="- topic/section ">
-        <p class="- topic/p ">At the University of Minnesota, personal and departmental Wi-Fi devices can be connected
-            to the Internet of Things (IoT) service. Follow these steps to connect your device for
-            the Encrypted IoT Service. </p>
-        <p class="- topic/p ">NOTE: If your device is using the Legacy Unencrypted IoT service and not the new
-            Encrypted Service, the legacy IoT service will eventually be disabled.<b class="+ topic/ph hi-d/b "> Any new
-                devices should be registered for the new encrypted IoT service</b>. Existing IoT
-            devices can easily be<xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/wifi-convert-legacy-internet-things-iot" scope="external"><?ditaot usertext?> converted to the new service</xref>. Registration is
-            required annually.</p>
-        <p class="- topic/p "/>
-    </section></refbody>
-<task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="connecting_your_device_to_encrypted_iot_service" oid="connecting_your_device_to_encrypted_iot_service" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Connecting Your Device to Encrypted IoT Service</ph></title>
-    <shortdesc class="- topic/shortdesc "/>
+    <shortdesc class="- topic/shortdesc ">NOTE: If your device is using the Legacy Unencrypted IoT service and not the new
+        Encrypted Service, the legacy IoT service will eventually be disabled.<b class="+ topic/ph hi-d/b "> Any new devices
+            should be registered for the new encrypted IoT service</b>. Existing IoT devices can
+        easily be<xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/wifi-convert-legacy-internet-things-iot" scope="external"><?ditaot usertext?> converted to the new service</xref>. Registration is
+        required annually.</shortdesc>
     <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
-            <ol class="- topic/ol " id="unique_11_Connect_42_ol_ifq_t2l_fzb" nd:nd-id="ol_ifq_t2l_fzb">
+            <ol class="- topic/ol " id="unique_9_Connect_42_ol_ifq_t2l_fzb" nd:nd-id="ol_ifq_t2l_fzb">
                 <li class="- topic/li ">Open the <b class="+ topic/ph hi-d/b ">Network Settings</b> on your device and view the list of available
-                    Wi-Fi networks.<ul class="- topic/ul " id="unique_11_Connect_42_ul_jfq_t2l_fzb" nd:nd-id="ul_jfq_t2l_fzb">
+                    Wi-Fi networks.<ul class="- topic/ul " id="unique_9_Connect_42_ul_jfq_t2l_fzb" nd:nd-id="ul_jfq_t2l_fzb">
                         <li class="- topic/li ">This should be near to where your wireless MAC address was listed.</li>
                     </ul></li>
                 <li class="- topic/li ">From the list of available networks, select<b class="+ topic/ph hi-d/b "> UofM-IoT</b> and enter the
                     generated password.</li>
                 <li class="- topic/li ">Your device is now connected.</li>
             </ol>
-            <p class="- topic/p ">Please contact <xref class="- topic/xref " format="html" href="https://it.umn.edu/technology-help-our-staff" scope="external"><?ditaot usertext?>UMN Technology Help</xref> if you have problems
-                following the above steps.</p>
+            <p class="- topic/p ">Contact <xref class="- topic/xref " format="html" href="https://it.umn.edu/technology-help-our-staff" scope="external"><?ditaot usertext?>UMN Technology Help</xref> if you have problems following the
+                above steps.</p>
         <p class="- topic/p "/>
     </context></taskbody>
-</task></reference><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="step_4_check_any_known_device_issues" oid="step_4_check_any_known_device_issues" specializations="@props/deliveryTarget">
+</task><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="step_4_check_any_known_device_issues" oid="step_4_check_any_known_device_issues" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Step 4:  Check any Known Device Issues</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
-        <p class="- topic/p ">These are some known issues with certain devices when connecting to departmental and
+        <p class="- topic/p ">There are some known issues with certain devices when connecting to departmental and
             personal Internet of Things (IoT) devices for University of Minnesota IoT Wi-Fi service. </p>
         <p class="- topic/p "/>
     </conbody>
-<troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="wireless_printers" oid="wireless_printers" specializations="@props/deliveryTarget">
+<troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="wireless_printers" oid="wireless_printers" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Wireless Printers</ph></title>
-    <shortdesc class="- topic/shortdesc ">Poor service for everyone in the area of the printer. </shortdesc>
+    <shortdesc class="- topic/shortdesc ">When WiFi service is poor for anyone in the area of a wireless printer. </shortdesc>
     <troublebody class="- topic/body troubleshooting/troublebody "><troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution "><cause class="- topic/section troubleshooting/cause ">
                 <p class="- topic/p ">Wireless printers broadcast a signal that conflicts with University of Minnesota
                     networks.  Instead, please connect to printers using a USB cable. </p>
         <p class="- topic/p "/>
     </cause></troubleSolution></troublebody>
-</troubleshooting><troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="apple_tv" oid="apple_tv" specializations="@props/deliveryTarget">
+</troubleshooting><troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="apple_tv" oid="apple_tv" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Apple TV</ph></title>
-    <shortdesc class="- topic/shortdesc ">Attempt the connection with UofM-IoT following the instructions in the <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/self-help-guides/register-personal-device-internet-things" scope="external"><?ditaot usertext?>Register a Personal Device for the Internet of Things
-            (IoT) Wi-Fi Service</xref> Self-Help guide. In case that does not work, you can attempt
-        to connect using our enterprise eduroam connection by using <xref class="- topic/xref " format="html" href="http://support.apple.com/en-us/HT202577" scope="external"><?ditaot usertext?>Apple
-            Configurator</xref> (link is an archived Apple article).</shortdesc>
+    <shortdesc class="- topic/shortdesc ">When the connection of an Apple TV to the Internet of Things (IoT) Services does not
+        work, you can attempt to connect using our enterprise eduroam connection by using <xref class="- topic/xref " format="html" href="http://support.apple.com/en-us/HT202577" scope="external"><?ditaot usertext?>Apple
+            Configurator</xref>.</shortdesc>
     <troublebody class="- topic/body troubleshooting/troublebody "><troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
             <cause class="- topic/section troubleshooting/cause ">
                 <p class="- topic/p ">Apple Configurator can set up a profile to add to the Apple TV that will connect
                     to our enterprise connection. Some support may be offered from
-                        <b class="+ topic/ph hi-d/b ">appletv@umn.edu</b> and user discussions are taking place on
-                        <b class="+ topic/ph hi-d/b ">appletv-users@umn.edu</b>.</p>
+                        <b class="+ topic/ph hi-d/b ">appletv@umn.edu</b>.</p>
             </cause><cause class="- topic/section troubleshooting/cause ">
                 <p class="- topic/p ">For University Departments hoping to use an Apple TV in a meeting or conference
                     room, send a message to <b class="+ topic/ph hi-d/b ">appletv-users@lists.umn.edu</b> for assistance.</p>
         <p class="- topic/p "/>
     </cause></troubleSolution></troublebody>
-</troubleshooting></concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="convert_a_legacy_device" oid="convert_a_legacy_device" specializations="@props/deliveryTarget">
+</troubleshooting></concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="convert_a_legacy_device" oid="convert_a_legacy_device" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Convert a Legacy Device</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">The Internet of Things (IoT) option for departmental and personal devices is the
             Encrypted Service. This service enables enhanced security for your devices. It also
             allows devices to connect that require a password (PSK) to attach to the network.</p>
-        <ul class="- topic/ul " id="unique_15_Connect_42_ul_zt5_mfl_fzb" nd:nd-id="ul_zt5_mfl_fzb">
+        <ul class="- topic/ul " id="unique_13_Connect_42_ul_zt5_mfl_fzb" nd:nd-id="ul_zt5_mfl_fzb">
             <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Note for IoT Admins of departmental IoT devices:</b> Devices without a pre-shared
                 key or PSK need to be updated to the new encrypted service following this article's
                 directions.</li>
         </ul>
         <p class="- topic/p "/>
     </conbody>
-<task class="- topic/topic task/task " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service" oid="converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service" specializations="@props/deliveryTarget">
+<task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service" oid="converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Converting Your IoT Device from Legacy Unencrypted Service to Encrypted Service</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
@@ -280,27 +248,24 @@
                 must be registered for the new encrypted IT service. If your device is connected
                 using the Legacy Unencrypted Service you can follow these steps to convert to the
                 new Encrypted Service.</p>
-            <ol class="- topic/ol " id="unique_16_Connect_42_ol_uqt_rfl_fzb" nd:nd-id="ol_uqt_rfl_fzb">
+            <ol class="- topic/ol " id="unique_14_Connect_42_ol_uqt_rfl_fzb" nd:nd-id="ol_uqt_rfl_fzb">
                 <li class="- topic/li ">If you are off-campus,<xref class="- topic/xref " format="html" href="http://z.umn.edu/vpn" scope="external"><?ditaot usertext?> connect to UMN VPN</xref>.</li>
-                <li class="- topic/li ">Go to <xref class="- topic/xref " format="html" href="https://auth-pub-1.netaccess.umn.edu/guest/mac_index.php" scope="external"><?ditaot usertext?>ClearPass Guest Device Manager</xref> and
-                    select <b class="+ topic/ph hi-d/b ">Manage Devices</b>. <image class="- topic/image " dita-ot:image-width="408" dita-ot:image-height="69" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVT2.png" id="unique_16_Connect_42_image_chn_prj_3zb" nd:nd-id="image_chn_prj_3zb" placement="inline"/></li>
+                <li class="- topic/li ">Go to ClearPass Guest Device Manager and
+                    select <b class="+ topic/ph hi-d/b ">Manage Devices</b>. <image class="- topic/image " dita-ot:image-width="408" dita-ot:image-height="69" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVT2.png" id="unique_14_Connect_42_image_chn_prj_3zb" nd:nd-id="image_chn_prj_3zb" placement="break"/></li>
                 <li class="- topic/li ">In the Manage Devices page, highlight the MAC address you want to update and
-                    select <b class="+ topic/ph hi-d/b ">Edit</b>. <image class="- topic/image " dita-ot:image-width="900" dita-ot:image-height="197" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVT3.png" id="unique_16_Connect_42_image_j3n_vrj_3zb" nd:nd-id="image_j3n_vrj_3zb" placement="inline"/></li>
+                    select <b class="+ topic/ph hi-d/b ">Edit</b>. <image class="- topic/image " dita-ot:image-width="900" dita-ot:image-height="197" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVT3.png" id="unique_14_Connect_42_image_j3n_vrj_3zb" nd:nd-id="image_j3n_vrj_3zb" placement="break"/></li>
                 <li class="- topic/li ">An Edit form opens. In the <b class="+ topic/ph hi-d/b ">Wi-Fi Password</b> section, check the <b class="+ topic/ph hi-d/b ">Use a
-                        unique Wi-Fi password for this device</b> box. <image class="- topic/image " dita-ot:image-width="698" dita-ot:image-height="441" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVT4.png" id="unique_16_Connect_42_image_nvx_wrj_3zb" nd:nd-id="image_nvx_wrj_3zb" placement="inline"/></li>
+                        unique Wi-Fi password for this device</b> box. <image class="- topic/image " dita-ot:image-width="698" dita-ot:image-height="441" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVT4.png" id="unique_14_Connect_42_image_nvx_wrj_3zb" nd:nd-id="image_nvx_wrj_3zb" placement="break"/></li>
                 <li class="- topic/li ">Select the <b class="+ topic/ph hi-d/b ">Update Device</b> button.</li>
                 <li class="- topic/li ">Your new password will be generated and displayed in the <b class="+ topic/ph hi-d/b ">Current Password</b>
-                        section.<image class="- topic/image " dita-ot:image-width="446" dita-ot:image-height="224" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVT6.png" id="unique_16_Connect_42_image_ygr_1sj_3zb" nd:nd-id="image_ygr_1sj_3zb" placement="inline"/><ul class="- topic/ul " id="unique_16_Connect_42_ul_vqt_rfl_fzb" nd:nd-id="ul_vqt_rfl_fzb">
+                        section.<image class="- topic/image " dita-ot:image-width="446" dita-ot:image-height="224" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVT6.png" id="unique_14_Connect_42_image_ygr_1sj_3zb" nd:nd-id="image_ygr_1sj_3zb" placement="break"/><ul class="- topic/ul " id="unique_14_Connect_42_ul_vqt_rfl_fzb" nd:nd-id="ul_vqt_rfl_fzb">
                         <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Note</b>: If you bulk registered multiple devices as a departmental
                             IoT Admin, select <b class="+ topic/ph hi-d/b ">Manage Devices</b> to see the newly created
                             passwords. Use the password corresponding to an individual device to
                             connect to UofM-IoT. If you want to set the same password for a group of
                             devices, refer to <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/wifi-set-same-password-group-iot-devices" scope="external"><?ditaot usertext?>Setting the Same Password for a Group
-                                of IoT Devices</xref>.
-                            <image class="- topic/image " dita-ot:image-width="720" dita-ot:image-height="167" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVTNote.png" id="unique_16_Connect_42_image_n4h_bsj_3zb" nd:nd-id="image_n4h_bsj_3zb" placement="inline"/></li>
+                                of IoT Devices</xref>. <image class="- topic/image " dita-ot:image-width="720" dita-ot:image-height="167" href="file:/C:/Users/miche/OneDrive/Desktop/TC3%20Project/TC3VSC/img/CVTNote.png" id="unique_14_Connect_42_image_n4h_bsj_3zb" nd:nd-id="image_n4h_bsj_3zb" placement="break"/></li>
                     </ul></li>
-                <li class="- topic/li ">You have completed the process. You can now use this new password to connect
-                    your IoT device to the UofM-IoT Wi-Fi network.</li>
             </ol>
         <p class="- topic/p "/>
     </context></taskbody>

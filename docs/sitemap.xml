@@ -2,66 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>topics/understand_the_internet_of_things_iot_services.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/internet_of_things_iot_service_options.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/encrypted_service.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/best_practices_for_iot_devices.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/which_devices_can_be_registered_for_iot_service.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/register_and_connect_to_the_encrypted_service.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/step_1_find_the_wireless_mac_address.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/step_2_register_the_device_for_the_encrypted_iot_service.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/registering_a_personal_device_for_encrypted_iot_service.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/step_3_connect_to_the_encrypted_iot_wifi_service.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/connecting_your_device_to_encrypted_iot_service.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/step_4_check_any_known_device_issues.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/wireless_printers.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/apple_tv.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/convert_a_legacy_device.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
    <url>
       <loc>topics/converting_your_iot_device_from_legacy_unencrypted_service_to_encrypted_service.html</loc>
-      <lastmod>2023-11-04T01:46:20Z</lastmod>
+      <lastmod>2023-11-05T02:09:46Z</lastmod>
    </url>
 </urlset>

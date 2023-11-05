@@ -15,12 +15,8 @@
                path="topics/step_1_find_the_wireless_mac_address.html"/>
    <appContext helpID="step_2_register_the_device_for_the_encrypted_iot_service"
                path="topics/step_2_register_the_device_for_the_encrypted_iot_service.html"/>
-   <appContext helpID="registering_a_personal_device_for_encrypted_iot_service"
-               path="topics/registering_a_personal_device_for_encrypted_iot_service.html"/>
    <appContext helpID="step_3_connect_to_the_encrypted_iot_wifi_service"
                path="topics/step_3_connect_to_the_encrypted_iot_wifi_service.html"/>
-   <appContext helpID="connecting_your_device_to_encrypted_iot_service"
-               path="topics/connecting_your_device_to_encrypted_iot_service.html"/>
    <appContext helpID="step_4_check_any_known_device_issues"
                path="topics/step_4_check_any_known_device_issues.html"/>
    <appContext helpID="wireless_printers" path="topics/wireless_printers.html"/>
